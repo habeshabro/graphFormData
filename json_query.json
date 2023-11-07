@@ -1,0 +1,34 @@
+[{
+    "report_name": "MAT_ANC1_GA",
+    "report_group": "Reproductive, Maternal Newborn and Child Health",
+    "primary_counted_object": "person",
+    "labels": ["\"MAT_ANC1_GA.1. 1\"","\"MAT_ANC1_GA.1. 2\"", "\"MAT_ANC1_GA.1. 3\""],
+    "categorized_by": {
+        "age": [],
+        "gender": false,
+        "other": [{
+            "table": "obs",
+            "type": "value_numeric",
+            "limiting_conditions": [{
+                "table": "concept_name",
+                "type": "=",
+                "col_name": "name",
+                "value": "\"Gestational Age(GA)\""
+            }],
+            "values": [-1000, 12, 16, 1000]
+        }]
+    },
+    "limiting_conditions": [
+        {"table": "obs",
+         "type": "=",
+         "col_name": "voided",
+         "limiting_conditions": [{
+             "table": "concept_name",
+             "type": "=",
+             "col_name": "name",
+             "value": "\"ANC First Visit\""
+         }],
+         "value": "0"
+         }
+    ]
+}]

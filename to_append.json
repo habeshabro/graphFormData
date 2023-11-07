@@ -1,0 +1,2378 @@
+{
+    "DHIS2Q0": {
+        "name": "DHIS2Q0",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MAT_Prp.1.sql"
+        }
+    },
+    "DHIS2Q1": {
+        "name": "DHIS2Q1",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MAT_OFC_Ide__Age. 1.sql"
+        }
+    },
+    "DHIS2Q2": {
+        "name": "DHIS2Q2",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MAT_OFC_Treat__Age. 1.sql"
+        }
+    },
+    "DHIS2Q3": {
+        "name": "DHIS2Q3",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MAT_TngP_TPR. 1.sql"
+        }
+    },
+    "DHIS2Q4": {
+        "name": "DHIS2Q4",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MAT_Tngtst.sql"
+        }
+    },
+    "DHIS2Q5": {
+        "name": "DHIS2Q5",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MTCT_TST.sql"
+        }
+    },
+    "DHIS2Q6": {
+        "name": "DHIS2Q6",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MTCT_TST.1.sql"
+        }
+    },
+    "DHIS2Q7": {
+        "name": "DHIS2Q7",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MTCT_TST.2.sql"
+        }
+    },
+    "DHIS2Q8": {
+        "name": "DHIS2Q8",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MTCT_TST.3.sql"
+        }
+    },
+    "DHIS2Q9": {
+        "name": "DHIS2Q9",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MTCT_Test.4.sql"
+        }
+    },
+    "DHIS2Q10": {
+        "name": "DHIS2Q10",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_RET. 1.sql"
+        }
+    },
+    "DHIS2Q11": {
+        "name": "DHIS2Q11",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_RET. 2.sql"
+        }
+    },
+    "DHIS2Q12": {
+        "name": "DHIS2Q12",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_RET. 3.sql"
+        }
+    },
+    "DHIS2Q13": {
+        "name": "DHIS2Q13",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_RET. 4.sql"
+        }
+    },
+    "DHIS2Q14": {
+        "name": "DHIS2Q14",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_RET. 5.sql"
+        }
+    },
+    "DHIS2Q15": {
+        "name": "DHIS2Q15",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_RET. 6.sql"
+        }
+    },
+    "DHIS2Q16": {
+        "name": "DHIS2Q16",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_RET. 7.sql"
+        }
+    },
+    "DHIS2Q17": {
+        "name": "DHIS2Q17",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_RET. 8.sql"
+        }
+    },
+    "DHIS2Q18": {
+        "name": "DHIS2Q18",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_DR_TX. 1.sql"
+        }
+    },
+    "DHIS2Q19": {
+        "name": "DHIS2Q19",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_DR_TX.5. 1.sql"
+        }
+    },
+    "DHIS2Q20": {
+        "name": "DHIS2Q20",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_DR_DST.2. 1.sql"
+        }
+    },
+    "DHIS2Q21": {
+        "name": "DHIS2Q21",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_DR_DST.3. 1.sql"
+        }
+    },
+    "DHIS2Q22": {
+        "name": "DHIS2Q22",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_DR_DST.4. 1.sql"
+        }
+    },
+    "DHIS2Q23": {
+        "name": "DHIS2Q23",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_DR_DST.5. 1.sql"
+        }
+    },
+    "DHIS2Q24": {
+        "name": "DHIS2Q24",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_DR_DST.5. 2.sql"
+        }
+    },
+    "DHIS2Q25": {
+        "name": "DHIS2Q25",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_DR_DST.5. 3.sql"
+        }
+    },
+    "DHIS2Q26": {
+        "name": "DHIS2Q26",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_DR_DST. 1.sql"
+        }
+    },
+    "DHIS2Q27": {
+        "name": "DHIS2Q27",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/TB_DR_CTX.4.2. 1.sql"
+        }
+    },
+    "DHIS2Q28": {
+        "name": "DHIS2Q28",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MAL. 1.sql"
+        }
+    },
+    "DHIS2Q29": {
+        "name": "DHIS2Q29",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MAL_POS.1. 1.sql"
+        }
+    },
+    "DHIS2Q30": {
+        "name": "DHIS2Q30",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/NTD_TR.1. 1.sql"
+        }
+    },
+    "DHIS2Q31": {
+        "name": "DHIS2Q31",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/NTD_ONCH.1. 1.sql"
+        }
+    },
+    "DHIS2Q32": {
+        "name": "DHIS2Q32",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/NTD_LF.1. 1.sql"
+        }
+    },
+    "DHIS2Q33": {
+        "name": "DHIS2Q33",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/NTD_SCH.1. 1.sql"
+        }
+    },
+    "DHIS2Q34": {
+        "name": "DHIS2Q34",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/NTD_STH.1. 1.sql"
+        }
+    },
+    "DHIS2Q35": {
+        "name": "DHIS2Q35",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/NTD_HYD. 1.sql"
+        }
+    },
+    "DHIS2Q36": {
+        "name": "DHIS2Q36",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/NTD_POD. 1.sql"
+        }
+    },
+    "DHIS2Q37": {
+        "name": "DHIS2Q37",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/NCD_CVD.2. 1.sql"
+        }
+    },
+    "DHIS2Q38": {
+        "name": "DHIS2Q38",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/NCD_CVD.3. 1.sql"
+        }
+    },
+    "DHIS2Q39": {
+        "name": "DHIS2Q39",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/NCD_CVD.4. 1.sql"
+        }
+    },
+    "DHIS2Q40": {
+        "name": "DHIS2Q40",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MS_MJSURG_Num. 1.sql"
+        }
+    },
+    "DHIS2Q41": {
+        "name": "DHIS2Q41",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MS_UBDT.1. 1.sql"
+        }
+    },
+    "DHIS2Q42": {
+        "name": "DHIS2Q42",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MS_UBDT.1. 2.sql"
+        }
+    },
+    "DHIS2Q43": {
+        "name": "DHIS2Q43",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Not available on HMIS/MS_SATIR.1.sql"
+        }
+    },
+    "DHIS2Q44": {
+        "name": "DHIS2Q44",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_ANC1_GA.1. 1.sql"
+        }
+    },
+    "DHIS2Q45": {
+        "name": "DHIS2Q45",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_ANC1_MA.1. 1.sql"
+        }
+    },
+    "DHIS2Q46": {
+        "name": "DHIS2Q46",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_ANC4+_MA.1. 1.sql"
+        }
+    },
+    "DHIS2Q47": {
+        "name": "DHIS2Q47",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_ANC4+_GA.1. 1.sql"
+        }
+    },
+    "DHIS2Q48": {
+        "name": "DHIS2Q48",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_ANC8+.sql"
+        }
+    },
+    "DHIS2Q49": {
+        "name": "DHIS2Q49",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_SYPH.1. 1.sql"
+        }
+    },
+    "DHIS2Q50": {
+        "name": "DHIS2Q50",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_SYPH.RX.1.sql"
+        }
+    },
+    "DHIS2Q51": {
+        "name": "DHIS2Q51",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_Hepa. 1.sql"
+        }
+    },
+    "DHIS2Q52": {
+        "name": "DHIS2Q52",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_DeW.2.sql"
+        }
+    },
+    "DHIS2Q53": {
+        "name": "DHIS2Q53",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /L&D_SBA.1.sql"
+        }
+    },
+    "DHIS2Q54": {
+        "name": "DHIS2Q54",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_CS.1.sql"
+        }
+    },
+    "DHIS2Q55": {
+        "name": "DHIS2Q55",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_UTER.1. 1.sql"
+        }
+    },
+    "DHIS2Q56": {
+        "name": "DHIS2Q56",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_CAC.sql"
+        }
+    },
+    "DHIS2Q57": {
+        "name": "DHIS2Q57",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_CAC_SAC. 1.sql"
+        }
+    },
+    "DHIS2Q58": {
+        "name": "DHIS2Q58",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_CAC_PAC. 1.sql"
+        }
+    },
+    "DHIS2Q59": {
+        "name": "DHIS2Q59",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_CAC.Tr.1. 1.sql"
+        }
+    },
+    "DHIS2Q60": {
+        "name": "DHIS2Q60",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_CAC.MA.1. 1.sql"
+        }
+    },
+    "DHIS2Q61": {
+        "name": "DHIS2Q61",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_IMD.1.sql"
+        }
+    },
+    "DHIS2Q62": {
+        "name": "DHIS2Q62",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_SBR.SB.sql"
+        }
+    },
+    "DHIS2Q63": {
+        "name": "DHIS2Q63",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_SBR.LB.sql"
+        }
+    },
+    "DHIS2Q64": {
+        "name": "DHIS2Q64",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_LBW.2.sql"
+        }
+    },
+    "DHIS2Q65": {
+        "name": "DHIS2Q65",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_GMP.sql"
+        }
+    },
+    "DHIS2Q66": {
+        "name": "DHIS2Q66",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_CHX.1.sql"
+        }
+    },
+    "DHIS2Q67": {
+        "name": "DHIS2Q67",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_EPNC.1. 1.sql"
+        }
+    },
+    "DHIS2Q68": {
+        "name": "DHIS2Q68",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_PPH.1.sql"
+        }
+    },
+    "DHIS2Q69": {
+        "name": "DHIS2Q69",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_IPPCAR_Age. 1.sql"
+        }
+    },
+    "DHIS2Q70": {
+        "name": "DHIS2Q70",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /FP_IPPF_Mtd. 1.sql"
+        }
+    },
+    "DHIS2Q71": {
+        "name": "DHIS2Q71",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_CAR_Age.1.sql"
+        }
+    },
+    "DHIS2Q72": {
+        "name": "DHIS2Q72",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_CAR_Age.1. 1.sql"
+        }
+    },
+    "DHIS2Q73": {
+        "name": "DHIS2Q73",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_CAR_Age.2. 1.sql"
+        }
+    },
+    "DHIS2Q74": {
+        "name": "DHIS2Q74",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_CAR_Mtd.sql"
+        }
+    },
+    "DHIS2Q75": {
+        "name": "DHIS2Q75",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_CAR_Mtd.1.sql"
+        }
+    },
+    "DHIS2Q76": {
+        "name": "DHIS2Q76",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_CAR_Mtd.1. 1.sql"
+        }
+    },
+    "DHIS2Q77": {
+        "name": "DHIS2Q77",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_CAR_Mtd.2. 1.sql"
+        }
+    },
+    "DHIS2Q78": {
+        "name": "DHIS2Q78",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /MAT_TLAFPR.sql"
+        }
+    },
+    "DHIS2Q79": {
+        "name": "DHIS2Q79",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_IND. 1.sql"
+        }
+    },
+    "DHIS2Q80": {
+        "name": "DHIS2Q80",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_ASPH.sql"
+        }
+    },
+    "DHIS2Q81": {
+        "name": "DHIS2Q81",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_ASPH.1.sql"
+        }
+    },
+    "DHIS2Q82": {
+        "name": "DHIS2Q82",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_ASPH.2.sql"
+        }
+    },
+    "DHIS2Q83": {
+        "name": "DHIS2Q83",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_MCV2.1.sql"
+        }
+    },
+    "DHIS2Q84": {
+        "name": "DHIS2Q84",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_PAB.sql"
+        }
+    },
+    "DHIS2Q85": {
+        "name": "DHIS2Q85",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_PAB.1.sql"
+        }
+    },
+    "DHIS2Q86": {
+        "name": "DHIS2Q86",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_CHDM. 1.sql"
+        }
+    },
+    "DHIS2Q87": {
+        "name": "DHIS2Q87",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_CHDMS. 1.sql"
+        }
+    },
+    "DHIS2Q88": {
+        "name": "DHIS2Q88",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_HPV1.1.sql"
+        }
+    },
+    "DHIS2Q89": {
+        "name": "DHIS2Q89",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_HPV2.1.sql"
+        }
+    },
+    "DHIS2Q90": {
+        "name": "DHIS2Q90",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_HepBD. 1.sql"
+        }
+    },
+    "DHIS2Q91": {
+        "name": "DHIS2Q91",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_HepBD. 2.sql"
+        }
+    },
+    "DHIS2Q92": {
+        "name": "DHIS2Q92",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_TD1.1.sql"
+        }
+    },
+    "DHIS2Q93": {
+        "name": "DHIS2Q93",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_TD2.1.sql"
+        }
+    },
+    "DHIS2Q94": {
+        "name": "DHIS2Q94",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_TD3.1.sql"
+        }
+    },
+    "DHIS2Q95": {
+        "name": "DHIS2Q95",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_TD4.1.sql"
+        }
+    },
+    "DHIS2Q96": {
+        "name": "DHIS2Q96",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_TD5.1.sql"
+        }
+    },
+    "DHIS2Q97": {
+        "name": "DHIS2Q97",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_TX_PNEU.1.sql"
+        }
+    },
+    "DHIS2Q98": {
+        "name": "DHIS2Q98",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_TX_SYI.1. 1.sql"
+        }
+    },
+    "DHIS2Q99": {
+        "name": "DHIS2Q99",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_TX_SYI.1. 2.sql"
+        }
+    },
+    "DHIS2Q100": {
+        "name": "DHIS2Q100",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_TX_SYI.1. 3.sql"
+        }
+    },
+    "DHIS2Q101": {
+        "name": "DHIS2Q101",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_TX_DIAR.sql"
+        }
+    },
+    "DHIS2Q102": {
+        "name": "DHIS2Q102",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_TX_DIAR.1.sql"
+        }
+    },
+    "DHIS2Q103": {
+        "name": "DHIS2Q103",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_TX_DIAR.2.sql"
+        }
+    },
+    "DHIS2Q104": {
+        "name": "DHIS2Q104",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_KMC.1.sql"
+        }
+    },
+    "DHIS2Q105": {
+        "name": "DHIS2Q105",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_KMC.2.sql"
+        }
+    },
+    "DHIS2Q106": {
+        "name": "DHIS2Q106",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_TX_NICUA.sql"
+        }
+    },
+    "DHIS2Q107": {
+        "name": "DHIS2Q107",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_TX_NICUD.sql"
+        }
+    },
+    "DHIS2Q108": {
+        "name": "DHIS2Q108",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_TX_NICU.Rec.1.sql"
+        }
+    },
+    "DHIS2Q109": {
+        "name": "DHIS2Q109",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_TX_NICU.Dead.1.sql"
+        }
+    },
+    "DHIS2Q110": {
+        "name": "DHIS2Q110",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_TX_NICU.TO.1.sql"
+        }
+    },
+    "DHIS2Q111": {
+        "name": "DHIS2Q111",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /CH_TX_NICU.Oth.1.sql"
+        }
+    },
+    "DHIS2Q112": {
+        "name": "DHIS2Q112",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NTR_GMP.1. 1.sql"
+        }
+    },
+    "DHIS2Q113": {
+        "name": "DHIS2Q113",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_GMP.MM.1. 1.sql"
+        }
+    },
+    "DHIS2Q114": {
+        "name": "DHIS2Q114",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_GMP_SM. 1.sql"
+        }
+    },
+    "DHIS2Q115": {
+        "name": "DHIS2Q115",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_U5SMN. 1.sql"
+        }
+    },
+    "DHIS2Q116": {
+        "name": "DHIS2Q116",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_U5SMN.MAM.1. 1.sql"
+        }
+    },
+    "DHIS2Q117": {
+        "name": "DHIS2Q117",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_U5SMN.SAM.1. 1.sql"
+        }
+    },
+    "DHIS2Q118": {
+        "name": "DHIS2Q118",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_VITA. 1.sql"
+        }
+    },
+    "DHIS2Q119": {
+        "name": "DHIS2Q119",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_VITA.2. 1.sql"
+        }
+    },
+    "DHIS2Q120": {
+        "name": "DHIS2Q120",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_VITA.2. 2.sql"
+        }
+    },
+    "DHIS2Q121": {
+        "name": "DHIS2Q121",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_DeW.1.sql"
+        }
+    },
+    "DHIS2Q122": {
+        "name": "DHIS2Q122",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_DeW.1. 1.sql"
+        }
+    },
+    "DHIS2Q123": {
+        "name": "DHIS2Q123",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_DeW.1. 2.sql"
+        }
+    },
+    "DHIS2Q124": {
+        "name": "DHIS2Q124",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_Adl&Yo.1.sql"
+        }
+    },
+    "DHIS2Q125": {
+        "name": "DHIS2Q125",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_Adl&Yo. 1.sql"
+        }
+    },
+    "DHIS2Q126": {
+        "name": "DHIS2Q126",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_Adl&Yo_SUW. 1.sql"
+        }
+    },
+    "DHIS2Q127": {
+        "name": "DHIS2Q127",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_Adl&Yo_SOW. 1.sql"
+        }
+    },
+    "DHIS2Q128": {
+        "name": "DHIS2Q128",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_Adl&Yo_SObe. 1.sql"
+        }
+    },
+    "DHIS2Q129": {
+        "name": "DHIS2Q129",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_Adl&Yo_SVObe_1.1. 1.sql"
+        }
+    },
+    "DHIS2Q130": {
+        "name": "DHIS2Q130",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_PreSMN.1. 1.sql"
+        }
+    },
+    "DHIS2Q131": {
+        "name": "DHIS2Q131",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_PreSMN.2. 1.sql"
+        }
+    },
+    "DHIS2Q132": {
+        "name": "DHIS2Q132",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_PreSMN.2. 2.sql"
+        }
+    },
+    "DHIS2Q133": {
+        "name": "DHIS2Q133",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_DeW.2.sql"
+        }
+    },
+    "DHIS2Q134": {
+        "name": "DHIS2Q134",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM. 1.sql"
+        }
+    },
+    "DHIS2Q135": {
+        "name": "DHIS2Q135",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_Adt_SC_2. 1.sql"
+        }
+    },
+    "DHIS2Q136": {
+        "name": "DHIS2Q136",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_Stab_SC_3. 1.sql"
+        }
+    },
+    "DHIS2Q137": {
+        "name": "DHIS2Q137",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_Cur_SC_ 4. 1.sql"
+        }
+    },
+    "DHIS2Q138": {
+        "name": "DHIS2Q138",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_died_SC_5. 1.sql"
+        }
+    },
+    "DHIS2Q139": {
+        "name": "DHIS2Q139",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_TO_SC_6. 1.sql"
+        }
+    },
+    "DHIS2Q140": {
+        "name": "DHIS2Q140",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_Def_SC_7. 1.sql"
+        }
+    },
+    "DHIS2Q141": {
+        "name": "DHIS2Q141",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_NR_SC_8. 1.sql"
+        }
+    },
+    "DHIS2Q142": {
+        "name": "DHIS2Q142",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_MT_SC_11. 1.sql"
+        }
+    },
+    "DHIS2Q143": {
+        "name": "DHIS2Q143",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_UK_SC_10. 1.sql"
+        }
+    },
+    "DHIS2Q144": {
+        "name": "DHIS2Q144",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_Ext_SC_9. 1.sql"
+        }
+    },
+    "DHIS2Q145": {
+        "name": "DHIS2Q145",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_ OTP.sql"
+        }
+    },
+    "DHIS2Q146": {
+        "name": "DHIS2Q146",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_Stab_OTP_1.sql"
+        }
+    },
+    "DHIS2Q147": {
+        "name": "DHIS2Q147",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_cur_OTP_2.sql"
+        }
+    },
+    "DHIS2Q148": {
+        "name": "DHIS2Q148",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_died_OTP_3.sql"
+        }
+    },
+    "DHIS2Q149": {
+        "name": "DHIS2Q149",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_tra_OTP_4.sql"
+        }
+    },
+    "DHIS2Q150": {
+        "name": "DHIS2Q150",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_def_OTP_5.sql"
+        }
+    },
+    "DHIS2Q151": {
+        "name": "DHIS2Q151",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_non_r_OTP_6.sql"
+        }
+    },
+    "DHIS2Q152": {
+        "name": "DHIS2Q152",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_mt_OTP_7.sql"
+        }
+    },
+    "DHIS2Q153": {
+        "name": "DHIS2Q153",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_us_OTP_8.sql"
+        }
+    },
+    "DHIS2Q154": {
+        "name": "DHIS2Q154",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_Adt_OTP.sql"
+        }
+    },
+    "DHIS2Q155": {
+        "name": "DHIS2Q155",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_Ext_OTP_E.sql"
+        }
+    },
+    "DHIS2Q156": {
+        "name": "DHIS2Q156",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN__MAM.sql"
+        }
+    },
+    "DHIS2Q157": {
+        "name": "DHIS2Q157",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_MAM_Adt_OTP.sql"
+        }
+    },
+    "DHIS2Q158": {
+        "name": "DHIS2Q158",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_MAM_stab_TSFP_1.sql"
+        }
+    },
+    "DHIS2Q159": {
+        "name": "DHIS2Q159",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_cured_TSFP_2.sql"
+        }
+    },
+    "DHIS2Q160": {
+        "name": "DHIS2Q160",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_died_TSFP_3.sql"
+        }
+    },
+    "DHIS2Q161": {
+        "name": "DHIS2Q161",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_MAM_TO_TSFP_4.sql"
+        }
+    },
+    "DHIS2Q162": {
+        "name": "DHIS2Q162",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_def_TSFP_5.sql"
+        }
+    },
+    "DHIS2Q163": {
+        "name": "DHIS2Q163",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_non res_TSFP_6.sql"
+        }
+    },
+    "DHIS2Q164": {
+        "name": "DHIS2Q164",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_MAM_MT_TSFP_7.sql"
+        }
+    },
+    "DHIS2Q165": {
+        "name": "DHIS2Q165",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN_SAM_US_TSFP_8.sql"
+        }
+    },
+    "DHIS2Q166": {
+        "name": "DHIS2Q166",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_TX-U5MN__MAM_Ext_TSFP_E.sql"
+        }
+    },
+    "DHIS2Q167": {
+        "name": "DHIS2Q167",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_FI.1.sql"
+        }
+    },
+    "DHIS2Q168": {
+        "name": "DHIS2Q168",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /NUT_IFA.1. 1.sql"
+        }
+    },
+    "DHIS2Q169": {
+        "name": "DHIS2Q169",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_BCG1.sql"
+        }
+    },
+    "DHIS2Q170": {
+        "name": "DHIS2Q170",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_VWR_HepB-Birth dose_giv.sql"
+        }
+    },
+    "DHIS2Q171": {
+        "name": "DHIS2Q171",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_DPT1.1.sql"
+        }
+    },
+    "DHIS2Q172": {
+        "name": "DHIS2Q172",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_DPT3.1.sql"
+        }
+    },
+    "DHIS2Q173": {
+        "name": "DHIS2Q173",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_OPV1.1.sql"
+        }
+    },
+    "DHIS2Q174": {
+        "name": "DHIS2Q174",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_OPV3.1.sql"
+        }
+    },
+    "DHIS2Q175": {
+        "name": "DHIS2Q175",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_PCV1.1.sql"
+        }
+    },
+    "DHIS2Q176": {
+        "name": "DHIS2Q176",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_PCV3.1.sql"
+        }
+    },
+    "DHIS2Q177": {
+        "name": "DHIS2Q177",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_IPV.1.sql"
+        }
+    },
+    "DHIS2Q178": {
+        "name": "DHIS2Q178",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_Rota1.1.sql"
+        }
+    },
+    "DHIS2Q179": {
+        "name": "DHIS2Q179",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_Rota2.1.sql"
+        }
+    },
+    "DHIS2Q180": {
+        "name": "DHIS2Q180",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_MCV1.1.sql"
+        }
+    },
+    "DHIS2Q181": {
+        "name": "DHIS2Q181",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Reproductive, Maternal Newborn /EPI_FI.1.sql"
+        }
+    },
+    "DHIS2Q182": {
+        "name": "DHIS2Q182",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/NCD_CSR.sql"
+        }
+    },
+    "DHIS2Q183": {
+        "name": "DHIS2Q183",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/NCD_CSR.1.sql"
+        }
+    },
+    "DHIS2Q184": {
+        "name": "DHIS2Q184",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/NTD_TT.1. 1.sql"
+        }
+    },
+    "DHIS2Q185": {
+        "name": "DHIS2Q185",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/NTD_VL.1. 1.sql"
+        }
+    },
+    "DHIS2Q186": {
+        "name": "DHIS2Q186",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/NTD_VL.2. 1.sql"
+        }
+    },
+    "DHIS2Q187": {
+        "name": "DHIS2Q187",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/NTD_VL.3. 1.sql"
+        }
+    },
+    "DHIS2Q188": {
+        "name": "DHIS2Q188",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/NTD_VL.4. 1.sql"
+        }
+    },
+    "DHIS2Q189": {
+        "name": "DHIS2Q189",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/NTD_CL.1. 1.sql"
+        }
+    },
+    "DHIS2Q190": {
+        "name": "DHIS2Q190",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/NTD_CL.2. 1.sql"
+        }
+    },
+    "DHIS2Q191": {
+        "name": "DHIS2Q191",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/NTD_CL.2. 2.sql"
+        }
+    },
+    "DHIS2Q192": {
+        "name": "DHIS2Q192",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/NTD_CL.3. 1.sql"
+        }
+    },
+    "DHIS2Q193": {
+        "name": "DHIS2Q193",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/Mal_Travel.sql"
+        }
+    },
+    "DHIS2Q194": {
+        "name": "DHIS2Q194",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/Mal_Noti.sql"
+        }
+    },
+    "DHIS2Q195": {
+        "name": "DHIS2Q195",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/MAL_FULL.1.sql"
+        }
+    },
+    "DHIS2Q196": {
+        "name": "DHIS2Q196",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/MAL_FULL.2.sql"
+        }
+    },
+    "DHIS2Q197": {
+        "name": "DHIS2Q197",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NTD prevention and Control/MAL_FOCI.1.sql"
+        }
+    },
+    "DHIS2Q198": {
+        "name": "DHIS2Q198",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Birth and Death Notification Fo/MAT_B&D_IBN.1.sql"
+        }
+    },
+    "DHIS2Q199": {
+        "name": "DHIS2Q199",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Birth and Death Notification Fo/MAT_B&D_IDN.2.sql"
+        }
+    },
+    "DHIS2Q200": {
+        "name": "DHIS2Q200",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_TX_PTB.sql"
+        }
+    },
+    "DHIS2Q201": {
+        "name": "DHIS2Q201",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB. 1.sql"
+        }
+    },
+    "DHIS2Q202": {
+        "name": "DHIS2Q202",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_TX_PTB.2. 1.sql"
+        }
+    },
+    "DHIS2Q203": {
+        "name": "DHIS2Q203",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_TX_EPTB.1. 1.sql"
+        }
+    },
+    "DHIS2Q204": {
+        "name": "DHIS2Q204",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_TX_RTB.1. 1.sql"
+        }
+    },
+    "DHIS2Q205": {
+        "name": "DHIS2Q205",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_KEY_POP. 1.sql"
+        }
+    },
+    "DHIS2Q206": {
+        "name": "DHIS2Q206",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_TX_OUT.sql"
+        }
+    },
+    "DHIS2Q207": {
+        "name": "DHIS2Q207",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_CR_PTB.1.1. 1.sql"
+        }
+    },
+    "DHIS2Q208": {
+        "name": "DHIS2Q208",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_CR_PNTB.2.sql"
+        }
+    },
+    "DHIS2Q209": {
+        "name": "DHIS2Q209",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_CR_PNTB.2.1. 1.sql"
+        }
+    },
+    "DHIS2Q210": {
+        "name": "DHIS2Q210",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_CR_EPTB.3.sql"
+        }
+    },
+    "DHIS2Q211": {
+        "name": "DHIS2Q211",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_CR_EPTB.3.1. 1.sql"
+        }
+    },
+    "DHIS2Q212": {
+        "name": "DHIS2Q212",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_CR_RTB.4.sql"
+        }
+    },
+    "DHIS2Q213": {
+        "name": "DHIS2Q213",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_CR_RTB.4.1. 1.sql"
+        }
+    },
+    "DHIS2Q214": {
+        "name": "DHIS2Q214",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_COMM.sql"
+        }
+    },
+    "DHIS2Q215": {
+        "name": "DHIS2Q215",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_CBTSR.1.sql"
+        }
+    },
+    "DHIS2Q216": {
+        "name": "DHIS2Q216",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_CBTSR.2.sql"
+        }
+    },
+    "DHIS2Q217": {
+        "name": "DHIS2Q217",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DST.1. 1.sql"
+        }
+    },
+    "DHIS2Q218": {
+        "name": "DHIS2Q218",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DST.2. 1.sql"
+        }
+    },
+    "DHIS2Q219": {
+        "name": "DHIS2Q219",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DX_PRIV.sql"
+        }
+    },
+    "DHIS2Q220": {
+        "name": "DHIS2Q220",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_TST-WHO. 1.sql"
+        }
+    },
+    "DHIS2Q221": {
+        "name": "DHIS2Q221",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TBHIV. 1.sql"
+        }
+    },
+    "DHIS2Q222": {
+        "name": "DHIS2Q222",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_HIV_N. 1.sql"
+        }
+    },
+    "DHIS2Q223": {
+        "name": "DHIS2Q223",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_ART.1. 1.sql"
+        }
+    },
+    "DHIS2Q224": {
+        "name": "DHIS2Q224",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_NEW_ART.2. 1.sql"
+        }
+    },
+    "DHIS2Q225": {
+        "name": "DHIS2Q225",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DR_NUT.1. 1.sql"
+        }
+    },
+    "DHIS2Q226": {
+        "name": "DHIS2Q226",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_LB. 1.sql"
+        }
+    },
+    "DHIS2Q227": {
+        "name": "DHIS2Q227",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_LB_AFB.2. 1.sql"
+        }
+    },
+    "DHIS2Q228": {
+        "name": "DHIS2Q228",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_CI.1.1. 1.sql"
+        }
+    },
+    "DHIS2Q229": {
+        "name": "DHIS2Q229",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_CI.1.2. 1.sql"
+        }
+    },
+    "DHIS2Q230": {
+        "name": "DHIS2Q230",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_CI_SCR.1. 1.sql"
+        }
+    },
+    "DHIS2Q231": {
+        "name": "DHIS2Q231",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_CI_SCR.2. 1.sql"
+        }
+    },
+    "DHIS2Q232": {
+        "name": "DHIS2Q232",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_CI_SCR_N. 1.sql"
+        }
+    },
+    "DHIS2Q233": {
+        "name": "DHIS2Q233",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_TPT. 1.sql"
+        }
+    },
+    "DHIS2Q234": {
+        "name": "DHIS2Q234",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_TPT.1.4. 1.sql"
+        }
+    },
+    "DHIS2Q235": {
+        "name": "DHIS2Q235",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_TPT.2.1. 1.sql"
+        }
+    },
+    "DHIS2Q236": {
+        "name": "DHIS2Q236",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_TPT.2.5. 1.sql"
+        }
+    },
+    "DHIS2Q237": {
+        "name": "DHIS2Q237",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_IPT.3. 1.sql"
+        }
+    },
+    "DHIS2Q238": {
+        "name": "DHIS2Q238",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_IPT.3.4. 1.sql"
+        }
+    },
+    "DHIS2Q239": {
+        "name": "DHIS2Q239",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DR_DR.1.sql"
+        }
+    },
+    "DHIS2Q240": {
+        "name": "DHIS2Q240",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DR_DR. 1.sql"
+        }
+    },
+    "DHIS2Q241": {
+        "name": "DHIS2Q241",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DR_DR.7. 1.sql"
+        }
+    },
+    "DHIS2Q242": {
+        "name": "DHIS2Q242",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DR_DR.12. 1.sql"
+        }
+    },
+    "DHIS2Q243": {
+        "name": "DHIS2Q243",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DR_DR.17. 1.sql"
+        }
+    },
+    "DHIS2Q244": {
+        "name": "DHIS2Q244",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DR_DR.22. 1.sql"
+        }
+    },
+    "DHIS2Q245": {
+        "name": "DHIS2Q245",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DR_CTX.sql"
+        }
+    },
+    "DHIS2Q246": {
+        "name": "DHIS2Q246",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DR_CTX. 1.sql"
+        }
+    },
+    "DHIS2Q247": {
+        "name": "DHIS2Q247",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DR_CTX.2. 1.sql"
+        }
+    },
+    "DHIS2Q248": {
+        "name": "DHIS2Q248",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DR_CTX.3. 1.sql"
+        }
+    },
+    "DHIS2Q249": {
+        "name": "DHIS2Q249",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DR_TxO.1. 1.sql"
+        }
+    },
+    "DHIS2Q250": {
+        "name": "DHIS2Q250",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_DR_CTX.4.3. 1.sql"
+        }
+    },
+    "DHIS2Q251": {
+        "name": "DHIS2Q251",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/TB_MN. 1.sql"
+        }
+    },
+    "DHIS2Q252": {
+        "name": "DHIS2Q252",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/LEP_NOT_1.sql"
+        }
+    },
+    "DHIS2Q253": {
+        "name": "DHIS2Q253",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/LEP_NOT_.1.1. 1.sql"
+        }
+    },
+    "DHIS2Q254": {
+        "name": "DHIS2Q254",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/LEP_NOT_.1.1.5. 1.sql"
+        }
+    },
+    "DHIS2Q255": {
+        "name": "DHIS2Q255",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/LEP_CSCR.sql"
+        }
+    },
+    "DHIS2Q256": {
+        "name": "DHIS2Q256",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/LEP_CSCR.2.sql"
+        }
+    },
+    "DHIS2Q257": {
+        "name": "DHIS2Q257",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/LEP_CSCR.3.sql"
+        }
+    },
+    "DHIS2Q258": {
+        "name": "DHIS2Q258",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/LEP_DIS.1. 1.sql"
+        }
+    },
+    "DHIS2Q259": {
+        "name": "DHIS2Q259",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/LEP_TX.r.sql"
+        }
+    },
+    "DHIS2Q260": {
+        "name": "DHIS2Q260",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/LEP_TX.2.sql"
+        }
+    },
+    "DHIS2Q261": {
+        "name": "DHIS2Q261",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/LEP_TX.3.sql"
+        }
+    },
+    "DHIS2Q262": {
+        "name": "DHIS2Q262",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/LEP_TX.4.sql"
+        }
+    },
+    "DHIS2Q263": {
+        "name": "DHIS2Q263",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Disease Prevention and Control/LEP_TX.5.sql"
+        }
+    },
+    "DHIS2Q264": {
+        "name": "DHIS2Q264",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Medical Services/MS. 1.sql"
+        }
+    },
+    "DHIS2Q265": {
+        "name": "DHIS2Q265",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Medical Services/MS_OPD_NumOV.2.sql"
+        }
+    },
+    "DHIS2Q266": {
+        "name": "DHIS2Q266",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Medical Services/MS_IPD_AR.1.sql"
+        }
+    },
+    "DHIS2Q267": {
+        "name": "DHIS2Q267",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Medical Services/MS_IPIMR.1. 1.sql"
+        }
+    },
+    "DHIS2Q268": {
+        "name": "DHIS2Q268",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Medical Services/MS_ICU_MR.3. 1.sql"
+        }
+    },
+    "DHIS2Q269": {
+        "name": "DHIS2Q269",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Medical Services/MS_VAP.1.sql"
+        }
+    },
+    "DHIS2Q270": {
+        "name": "DHIS2Q270",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Medical Services/MS_VAP.2.sql"
+        }
+    },
+    "DHIS2Q271": {
+        "name": "DHIS2Q271",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/Medical Services/MS_SURG_EL_Num.sql"
+        }
+    },
+    "DHIS2Q272": {
+        "name": "DHIS2Q272",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_HTNDX.2. 1.sql"
+        }
+    },
+    "DHIS2Q273": {
+        "name": "DHIS2Q273",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_HTNDX.2.2. 1.sql"
+        }
+    },
+    "DHIS2Q274": {
+        "name": "DHIS2Q274",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/DM.sql"
+        }
+    },
+    "DHIS2Q275": {
+        "name": "DHIS2Q275",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_HTNDX.2.3. 1.sql"
+        }
+    },
+    "DHIS2Q276": {
+        "name": "DHIS2Q276",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_HTNTX.0.sql"
+        }
+    },
+    "DHIS2Q277": {
+        "name": "DHIS2Q277",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_HTNTX. 1.sql"
+        }
+    },
+    "DHIS2Q278": {
+        "name": "DHIS2Q278",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_DMDX.2.2. 1.sql"
+        }
+    },
+    "DHIS2Q279": {
+        "name": "DHIS2Q279",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_DMDX.2.3. 1.sql"
+        }
+    },
+    "DHIS2Q280": {
+        "name": "DHIS2Q280",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_DMDX.2.4. 1.sql"
+        }
+    },
+    "DHIS2Q281": {
+        "name": "DHIS2Q281",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/CVD. 1.sql"
+        }
+    },
+    "DHIS2Q282": {
+        "name": "DHIS2Q282",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/CVD. 2.sql"
+        }
+    },
+    "DHIS2Q283": {
+        "name": "DHIS2Q283",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_DMDX.1.2. 1.sql"
+        }
+    },
+    "DHIS2Q284": {
+        "name": "DHIS2Q284",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_DMDX.1.1. 1.sql"
+        }
+    },
+    "DHIS2Q285": {
+        "name": "DHIS2Q285",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_DMDX.1.1.4.sql"
+        }
+    },
+    "DHIS2Q286": {
+        "name": "DHIS2Q286",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCT_HTN. 1.sql"
+        }
+    },
+    "DHIS2Q287": {
+        "name": "DHIS2Q287",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_HTNDX.1.2.3.sql"
+        }
+    },
+    "DHIS2Q288": {
+        "name": "DHIS2Q288",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_CV_SCRN.1. 1.sql"
+        }
+    },
+    "DHIS2Q289": {
+        "name": "DHIS2Q289",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_CV_SCRN.1.2.1. 1.sql"
+        }
+    },
+    "DHIS2Q290": {
+        "name": "DHIS2Q290",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_CV_SCRN.1.3. 1.sql"
+        }
+    },
+    "DHIS2Q291": {
+        "name": "DHIS2Q291",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_CV_TX.1. 1.sql"
+        }
+    },
+    "DHIS2Q292": {
+        "name": "DHIS2Q292",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_CV_TX.2. 1.sql"
+        }
+    },
+    "DHIS2Q293": {
+        "name": "DHIS2Q293",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_CV_TX.2.2. 1.sql"
+        }
+    },
+    "DHIS2Q294": {
+        "name": "DHIS2Q294",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/NCD_CV_TX.2.3. 1.sql"
+        }
+    },
+    "DHIS2Q295": {
+        "name": "DHIS2Q295",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/MH_TX.1.sql"
+        }
+    },
+    "DHIS2Q296": {
+        "name": "DHIS2Q296",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reportsDHIS",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/DHIS2/NCD prevention, control and Men/MH_CDBD.1.sql"
+        }
+    }
+}

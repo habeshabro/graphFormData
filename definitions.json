@@ -1,0 +1,64 @@
+{
+  "Drug" : {
+    "definition": {
+      "main_table": "order",
+      "mandatory_condition": ["order_type ON order.order_type_id = order_type.order_type_id AND order_type.name = 'Drug Order'"],
+      "sub": ["concept_name ON order.concept_id = concept_name.concept_id","encounter ON order.encounter_id = encounter.encounter_id"]
+      },
+    "interface": {
+      "name": "concept_name.name",
+      "date": "order.date_activated",
+      "patient": "order.patient_id",
+      "visit": "encounter.visit_id"
+    }
+  },
+  "Diagnosis": {
+    "definition": {
+      "main_table": "obs",
+      "mandatory_condition": ["concept_view ON concept_view.concept_id = obs.concept_id AND concept_view.concept_class_name = 'Diagnosis'"],
+      "sub": ["concept_name ON obs.concept_id = concept_name.concept_id","encounter ON obs.encounter_id = encounter.encounter_id"]
+      },
+    "interface": {
+      "name": "concept_name.name",
+      "date": "obs.date_activated",
+      "patient": "obs.patient_id",
+      "visit": "encounter.visit_id"
+    }
+  },
+  "Observation": {
+    "definition": {
+      "main_table": "obs",
+      "mandatory_condition": [],
+      "sub": ["concept_name ON obs.concept_id = concept_name.concept_id","encounter ON obs.encounter_id = encounter.encounter_id"]
+      },
+    "interface": {
+      "name": "concept_name.name",
+      "date": "obs.date_activated",
+      "patient": "obs.patient_id",
+      "visit": "encounter.visit_id"
+    }
+  },
+  "Visit": {
+    "definition": {
+      "main_table": "visit",
+      "mandatory_condition": [],
+      "sub": ["visit_type ON visit_type.visit_type_id = visit.visit_type_id"]
+      },
+    "interface": {
+      "type": "visit_type.name",
+      "date": "visit.date_started",
+      "patient": "visit.patient_id"
+    }
+  },
+  "Patient": {
+    "definition": {
+      "main_table": "person",
+      "mandatory_condition": [],
+      "sub": []
+      },
+    "interface": {
+      "date": "patient.date_created"
+    }
+  }
+
+}

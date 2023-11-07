@@ -1,0 +1,634 @@
+{
+    "IMNCI": {
+        "name": "IMNCI",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Under 5 planning and performanc/IMNCI.sql"
+        }
+    },
+    "Pneumonia": {
+        "name": "Pneumonia",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Under 5 planning and performanc/Pneumonia.sql"
+        }
+    },
+    "Diarrhea": {
+        "name": "Diarrhea",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Under 5 planning and performanc/Diarrhea.sql"
+        }
+    },
+    "PICT": {
+        "name": "PICT",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Family Planning and performance/PICT.sql"
+        }
+    },
+    "TB screen": {
+        "name": "TB screen",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Under 5 planning and performanc/TB screen.sql"
+        }
+    },
+    "TB presumptive": {
+        "name": "TB presumptive",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Under 5 planning and performanc/TB presumptive.sql"
+        }
+    },
+    "TB detection": {
+        "name": "TB detection",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Under 5 planning and performanc/TB detection.sql"
+        }
+    },
+    "G. Monitoring": {
+        "name": "G. Monitoring",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monitoring of child development/G. Monitoring.sql"
+        }
+    },
+    "G. Monitoring < 2 years": {
+        "name": "G. Monitoring < 2 years",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monitoring of child development/G. Monitoring < 2 years.sql"
+        }
+    },
+    "ANC1": {
+        "name": "ANC1",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/ANC, PMTCT and Delivery plannin/ANC1.sql"
+        }
+    },
+    "ANC4": {
+        "name": "ANC4",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/ANC, PMTCT and Delivery plannin/ANC4.sql"
+        }
+    },
+    "PMTCT": {
+        "name": "PMTCT",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/ANC, PMTCT and Delivery plannin/PMTCT.sql"
+        }
+    },
+    "Delivery": {
+        "name": "Delivery",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/ANC, PMTCT and Delivery plannin/Delivery.sql"
+        }
+    },
+    "PNC": {
+        "name": "PNC",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/ANC, PMTCT and Delivery plannin/PNC.sql"
+        }
+    },
+    "Abortion": {
+        "name": "Abortion",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/ANC, PMTCT and Delivery plannin/Abortion.sql"
+        }
+    },
+    "PPFP": {
+        "name": "PPFP",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/ANC, PMTCT and Delivery plannin/PPFP.sql"
+        }
+    },
+    "FeFOl": {
+        "name": "FeFOl",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/ANC, PMTCT and Delivery plannin/FeFOl.sql"
+        }
+    },
+    "VDRL": {
+        "name": "VDRL",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/ANC, PMTCT and Delivery plannin/VDRL.sql"
+        }
+    },
+    "Deworming": {
+        "name": "Deworming",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/ANC, PMTCT and Delivery plannin/Deworming.sql"
+        }
+    },
+    "Nevirapine": {
+        "name": "Nevirapine",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/ANC, PMTCT and Delivery plannin/Nevirapine.sql"
+        }
+    },
+    "HIV +ve women deliver in HC": {
+        "name": "HIV +ve women deliver in HC",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/ANC, PMTCT and Delivery plannin/HIV +ve women deliver in HC.sql"
+        }
+    },
+    "Cotrimoxazole prophylaxis": {
+        "name": "Cotrimoxazole prophylaxis",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/ANC, PMTCT and Delivery plannin/Cotrimoxazole prophylaxis.sql"
+        }
+    },
+    "All types of family planning": {
+        "name": "All types of family planning",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Family Planning and performance/All types of family planning.sql"
+        }
+    },
+    "LAFP": {
+        "name": "LAFP",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Family Planning and performance/LAFP.sql"
+        }
+    },
+    "SAFP": {
+        "name": "SAFP",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Family Planning and performance/SAFP.sql"
+        }
+    },
+    "Condom distribution": {
+        "name": "Condom distribution",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Family Planning and performance/Condom distribution.sql"
+        }
+    },
+    "Emergency referrals": {
+        "name": "Emergency referrals",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Emergency referrals.sql"
+        }
+    },
+    "Number of referral in": {
+        "name": "Number of referral in",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Number of referral in.sql"
+        }
+    },
+    "Number of referral in with communication": {
+        "name": "Number of referral in with communication",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Number of referral in with communication.sql"
+        }
+    },
+    "Number of referral in without communication": {
+        "name": "Number of referral in without communication",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Number of referral in without communication.sql"
+        }
+    },
+    "Number of referral in with or without communication": {
+        "name": "Number of referral in with or without communication",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Number of referral in with or without communication.sql"
+        }
+    },
+    "Number of self referral": {
+        "name": "Number of self referral",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Number of self referral.sql"
+        }
+    },
+    "Number of referral out": {
+        "name": "Number of referral out",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Number of referral out.sql"
+        }
+    },
+    "Number of referral out with communication": {
+        "name": "Number of referral out with communication",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Number of referral out with communication.sql"
+        }
+    },
+    "Number of referral out without communication": {
+        "name": "Number of referral out without communication",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Number of referral out without communication.sql"
+        }
+    },
+    "Number of referral out with or without communication": {
+        "name": "Number of referral out with or without communication",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Number of referral out with or without communication.sql"
+        }
+    },
+    "Number of referral out with Ambulance": {
+        "name": "Number of referral out with Ambulance",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Number of referral out with Ambulance.sql"
+        }
+    },
+    "Number of cold cases referred out": {
+        "name": "Number of cold cases referred out",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Number of cold cases referred out.sql"
+        }
+    },
+    "Total referral out (ER + Cold case)": {
+        "name": "Total referral out (ER + Cold case)",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Total referral out (ER + Cold case).sql"
+        }
+    },
+    "No. of feedback sent": {
+        "name": "No. of feedback sent",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/No. of feedback sent.sql"
+        }
+    },
+    "Referred cases": {
+        "name": "Referred cases",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Referred cases.sql"
+        }
+    },
+    "GynObs": {
+        "name": "GynObs",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/GynObs.sql"
+        }
+    },
+    "Medical": {
+        "name": "Medical",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Medical.sql"
+        }
+    },
+    "Surgical": {
+        "name": "Surgical",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Surgical.sql"
+        }
+    },
+    "Trauma": {
+        "name": "Trauma",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Trauma.sql"
+        }
+    },
+    "Pediatrics": {
+        "name": "Pediatrics",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Pediatrics.sql"
+        }
+    },
+    "ENT": {
+        "name": "ENT",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/ENT.sql"
+        }
+    },
+    "Others": {
+        "name": "Others",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Others.sql"
+        }
+    },
+    "Bed occupancy rate": {
+        "name": "Bed occupancy rate",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Referral report/Bed occupancy rate.sql"
+        }
+    },
+    "All outpatient attendants including emergency": {
+        "name": "All outpatient attendants including emergency",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly emergency case team rep/All outpatient attendants including emergency.sql"
+        }
+    },
+    "Emergency attendants by ESI category": {
+        "name": "Emergency attendants by ESI category",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly emergency case team rep/Emergency attendants by ESI category.sql"
+        }
+    },
+    "Red": {
+        "name": "Red",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly emergency case team rep/Red.sql"
+        }
+    },
+    "Orange": {
+        "name": "Orange",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly emergency case team rep/Orange.sql"
+        }
+    },
+    "Yellow": {
+        "name": "Yellow",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly emergency case team rep/Yellow.sql"
+        }
+    },
+    "Green": {
+        "name": "Green",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly emergency case team rep/Green.sql"
+        }
+    },
+    "Emergency patients kept in ER for < 24 hours": {
+        "name": "Emergency patients kept in ER for < 24 hours",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly emergency case team rep/Emergency patients kept in ER for < 24 hours.sql"
+        }
+    },
+    "Emergency patients kept in ER for > 24 hours": {
+        "name": "Emergency patients kept in ER for > 24 hours",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly emergency case team rep/Emergency patients kept in ER for > 24 hours.sql"
+        }
+    },
+    "Emergency referral with communication": {
+        "name": "Emergency referral with communication",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly emergency case team rep/Emergency referral with communication.sql"
+        }
+    },
+    "Emergency referral without communication": {
+        "name": "Emergency referral without communication",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly emergency case team rep/Emergency referral without communication.sql"
+        }
+    },
+    "Total length of stay in minute in ER": {
+        "name": "Total length of stay in minute in ER",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly emergency case team rep/Total length of stay in minute in ER.sql"
+        }
+    },
+    "Total length of stay in minute in inpatient (if admitted)": {
+        "name": "Total length of stay in minute in inpatient (if admitted)",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly emergency case team rep/Total length of stay in minute in inpatient (if admitted).sql"
+        }
+    },
+    "Total number of patients for OPD visit": {
+        "name": "Total number of patients for OPD visit",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Total number of patients for OPD visit.sql"
+        }
+    },
+    "Total number of patients treated for emergency case": {
+        "name": "Total number of patients treated for emergency case",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Total number of patients treated for emergency case.sql"
+        }
+    },
+    "Number of patients service given for burn": {
+        "name": "Number of patients service given for burn",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of patients service given for burn.sql"
+        }
+    },
+    "Number of patients service given for RTA": {
+        "name": "Number of patients service given for RTA",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of patients service given for RTA.sql"
+        }
+    },
+    "Number of patients service given for VO": {
+        "name": "Number of patients service given for VO",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of patients service given for VO.sql"
+        }
+    },
+    "Number of patients service given for P": {
+        "name": "Number of patients service given for P",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of patients service given for P.sql"
+        }
+    },
+    "Number of patients service given for M.C": {
+        "name": "Number of patients service given for M.C",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of patients service given for M.C.sql"
+        }
+    },
+    "Number of client PIHTC done": {
+        "name": "Number of client PIHTC done",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of client PIHTC done.sql"
+        }
+    },
+    "Number of PIHTC positive ": {
+        "name": "Number of PIHTC positive ",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of PIHTC positive .sql"
+        }
+    },
+    "Number of clients linked to ART": {
+        "name": "Number of clients linked to ART",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of clients linked to ART.sql"
+        }
+    },
+    "Number of clients screened for TB": {
+        "name": "Number of clients screened for TB",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of clients screened for TB.sql"
+        }
+    },
+    "Number of clients Presumptive TB": {
+        "name": "Number of clients Presumptive TB",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of clients Presumptive TB.sql"
+        }
+    },
+    "Number of patient TB detection": {
+        "name": "Number of patient TB detection",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of patient TB detection.sql"
+        }
+    },
+    "Number of referral for cervical ca screening": {
+        "name": "Number of referral for cervical ca screening",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of referral for cervical ca screening.sql"
+        }
+    },
+    "Number of referral (Total)": {
+        "name": "Number of referral (Total)",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of referral (Total).sql"
+        }
+    },
+    "Number of referral form emergency": {
+        "name": "Number of referral form emergency",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of referral form emergency.sql"
+        }
+    },
+    "Number of referral with ambulance": {
+        "name": "Number of referral with ambulance",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of referral with ambulance.sql"
+        }
+    },
+    "Number of referral without ambulance": {
+        "name": "Number of referral without ambulance",
+        "type": "MRSGeneric",
+        "requiredPrivilege": "app:reports",
+        "config": {
+            "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/generated/Monthly report form/Number of referral without ambulance.sql"
+        }
+    }
+}
